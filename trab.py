@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-from Tkinter import *
 from processo import *
 import copy
 
